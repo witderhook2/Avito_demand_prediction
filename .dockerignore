@@ -1,0 +1,11 @@
+*.ipynb
+*.csv
+*.md
+*.html
+.git
+streamlit_app.py
+venv/
+.venv/
+__pycache__/
+train.py
+predict.py
